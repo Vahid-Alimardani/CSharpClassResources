@@ -1,0 +1,42 @@
+Exercise No. 1:
+
+As a car salesman you need to know how to calculate annual costs of having a car. After long negotiations one of your customers decided to buy one of these three cars, but she asked you to report her all annual cost of these cars for the next 5 year.
+
+1- An economy car with $25,000 price tag. 
+2- A sport car with $35,000 price tag. 
+3- A luxury car with $25,000 price tag.
+
+other costs:
+a- each car has 10% annual depreciation rate.
+b- each car gas mileage is:
+   * economy car 22 MPG
+   * sport car 35 MPG
+   * luxury car 40 MPG
+   * gas cost is $4 per gallon.
+   * the customer will travel 2,000 miles per year with her car.
+
+c- Maintenance cost is:
+   * $500 for the economy car.
+   * $900 for the sport car.
+   * $1500 for the luxury car.
+
+d- yearly insurance cost is %1.5 of car price.
+
+e- other things you may consider. 
+
+
+
+Exercise No. 2:
+Buying a beach house
+You allways dearmin to have a beach house. A comfortable and cozy retreat to listen to the waves sounds and relax. Now you have saved enough money to reach your dream beach house. the problem is your budget is limited and the choices are a lot. You are standing on a beautiful beach and looking at the line of lovely beach houses. Of course each house has its own pros and cons and price. you have to find the best house that fits in your budget and your desires too. keep these in mind and find the way to choose the best!
+
+a- your budget is limited to $320,000.
+b- At this time only 5 beach houses are available for sale.
+c- Avilable beach houses proce:
+   1- $260,000
+   2- $273,000
+   3- $310,000
+   4- $290,000
+   5- $320,000
+
+d- Based on location, view and 
