@@ -1,1 +1,9 @@
+In this session we learned other loops in C# programming languages like do and while. Also we kearned to control the flow of our program with "break", "continue" and "goto".
 
+I need you to practice what you learned with these programs:
+
+1- write a C# program that can sum all integer numbers between 1 to 100 with a do loop and a while loop.
+
+2- Write a C# program that ask for an integer between 1 and 70. Then print all the pairs of numbers whose multiplication is equal to the input number.
+
+3- write a C# program that displays following menu. the wait for the user selection and print selected item. if the user select exit option then program ends.
